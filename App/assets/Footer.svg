@@ -1,0 +1,12 @@
+<svg width="353" height="72" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ 
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#ffff02" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="29.05" x2="157.53947" y1="29.05" x1="4.5" stroke-width="2" fill="none"/>
+  <path id="svg_3" d="m157.49999,28.17958l4.39261,-13.9057l11.49994,-8.5943l14.21492,0l11.50001,8.5943l4.39254,13.9057l-4.39254,13.9057l-11.50001,8.5943l-14.21492,0l-11.49994,-8.5943l-4.39261,-13.9057z" stroke-width="2" stroke="#ffff02" fill="#fff"/>
+  <line stroke="#ffff02" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="27.05" x2="348.53946" y1="27.05" x1="204.5" stroke-width="2" fill="none"/>
+  <rect stroke="#ffff02" id="svg_9" height="1" width="1" y="51.04999" x="31.5" stroke-width="31" fill="none"/>
+  <path stroke="#ffff02" id="svg_11" d="m319.69745,56.64789l1.5,-2l1.5,2l-2.99999,0z" stroke-width="23" fill="none"/>
+ </g>
+</svg>
