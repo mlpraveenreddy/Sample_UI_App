@@ -1,5 +1,5 @@
 # Sample_UI_App
-This is a sample app where user interface is developed using react native. The app contain following screens.
+This is a sample app where user interface is developed using react native. The app contain following screens. The profile picture is in a decagonal container. On long press we can edit profile picture. On pressing icon we can add story. After story is added, an yellow border appear for decagonal container. It turns into grey after viewing it.
 <table>
   <tr>
     <td>No Story</td>
