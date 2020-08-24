@@ -15,6 +15,6 @@
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 <figure>
-  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
-  <figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
+  <img src="./Screens/noStory.jpg" alt="The Pulpit Rock" width="50%" >
+  <figcaption>No Story</figcaption>
 </figure>
