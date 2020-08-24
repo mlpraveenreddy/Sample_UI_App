@@ -1,20 +1,22 @@
 # Sample_UI_App
-
-![Getting Started](./Screens/noStory.jpg)
-*The caption for my image*
-![Getting Started](./Screens/editProfile.jpg)
-*The caption for my image*
-![Getting Started](./Screens/storyAdded.jpg)
-*The caption for my image*
-![Getting Started](./Screens/Story.jpg)
-*The caption for my image*
-![Getting Started](./Screens/storyViewed.jpg)
-*The caption for my image*
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
 <figure>
-  <img src="./Screens/noStory.jpg" alt="The Pulpit Rock" width="50%" >
-  <figcaption>No Story</figcaption>
+  <img src="./Screens/noStory.jpg" alt="No Story" width="50%" >
+  <figcaption style={align:center}>No Story</figcaption>
 </figure>
+<figure>
+  <img src="./Screens/editProfile.jpg" alt="Edit Profile" width="50%" >
+  <figcaption style={align:center}>Edit Profile</figcaption>
+</figure>
+<figure>
+  <img src="./Screens/storyAdded.jpg" alt="Story Added" width="50%" >
+  <figcaption style={align:center}>Story Added</figcaption>
+</figure>
+<figure>
+  <img src="./Screens/Story.jpg" alt="Story" width="50%" >
+  <figcaption style={align:center}>Story</figcaption>
+</figure>
+<figure>
+  <img src="./Screens/storyViewed.jpg" alt="Story Viewed" width="50%" >
+  <figcaption style={align:center}>Story Viewed</figcaption>
+</figure>
+
