@@ -20,3 +20,6 @@
   <figcaption style={align:center}>Story Viewed</figcaption>
 </figure>
 
+![alt-text-1](./Screens/noStory.jpg "title-1") ![alt-text-2](./Screens/editProfile.jpg "title-2")![alt-text-1](./Screens/storyAdded.jpg "title-1") ![alt-text-2](./Screens/Story.jpg "title-2")![alt-text-1](./Screens/storyViewed.jpg"title-1")
+
+
