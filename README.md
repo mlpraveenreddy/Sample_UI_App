@@ -1,25 +1,20 @@
 # Sample_UI_App
-<figure>
-  <img src="./Screens/noStory.jpg" alt="No Story" width="25%" >
-  <figcaption style={align:center}>No Story</figcaption>
-</figure>
-<figure>
-  <img src="./Screens/editProfile.jpg" alt="Edit Profile" width="25%" >
-  <figcaption style={align:center}>Edit Profile</figcaption>
-</figure>
-<figure>
-  <img src="./Screens/storyAdded.jpg" alt="Story Added" width="25%" >
-  <figcaption style={align:center}>Story Added</figcaption>
-</figure>
-<figure>
-  <img src="./Screens/Story.jpg" alt="Story" width="25%" >
-  <figcaption style={align:center}>Story</figcaption>
-</figure>
-<figure>
-  <img src="./Screens/storyViewed.jpg" alt="Story Viewed" width="25%" >
-  <figcaption style={align:center}>Story Viewed</figcaption>
-</figure>
 
-![alt-text-1](./Screens/noStory.jpg "title-1") ![alt-text-2](./Screens/editProfile.jpg "title-2")![alt-text-1](./Screens/storyAdded.jpg "title-1") ![alt-text-2](./Screens/Story.jpg "title-2")![alt-text-1](./Screens/storyViewed.jpg"title-1")
+<table>
+  <tr>
+    <td>No Story</td>
+     <td>Edit Profile</td>
+     <td>Story Added</td>
+    <td>Story</td>
+     <td>Story Viewed</td>
+  </tr>
+  <tr>
+    <td><img src="./Screens/noStory.jpg" width=270 height=480></td>
+    <td><img src="./Screens/editProfile.jpg" width=270 height=480></td>
+    <td><img src="./Screens/storyAdded.jpg" width=270 height=480></td>
+    <td><img src="./Screens/Story.jpg" width=270 height=480></td>
+    <td><img src="./Screens/storyViewed.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 
